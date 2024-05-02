@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 # About Me
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />
 - 👋 Hi, I’m Asim Mohiuddin
 - 👀 I’m interested in Full Stack Web Development and Data Structures and Algorithms
 - 🌱 I’m currently learning MERN Stack, Testing with JEST, Spring Boot
@@ -18,3 +17,7 @@
 <a href="https://www.linkedin.com/in/asim-mohiuddin-10395b212/" target="_blank">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0e76a8&color=black">
 </a>
+
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="500">
+<br><br>
+
