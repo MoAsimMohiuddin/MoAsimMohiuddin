@@ -9,3 +9,6 @@
 
 # My Skillset
 [![My Skills](https://skillicons.dev/icons?i=js,ts,jquery,html,css,bootstrap,react,redux,nodejs,express,mongodb,discordjs,bots,jest,docker,linux,java,spring,postgres,redis,py)](https://skillicons.dev)
+
+# Stats
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoAsimMohiuddin&layout=compact&theme=tokyonight&langs_count=6" />
