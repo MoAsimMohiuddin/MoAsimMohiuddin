@@ -1,5 +1,4 @@
 ### Hi there 👋
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c288471c-be67-4fbb-af44-1c63ee9ed280" />
 # About Me
 - 👋 Hi, I’m Asim Mohiuddin
 - 👀 I’m interested in Full Stack Web Development and Data Structures and Algorithms
