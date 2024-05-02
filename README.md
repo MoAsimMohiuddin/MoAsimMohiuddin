@@ -12,3 +12,8 @@
 
 # Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoAsimMohiuddin&layout=compact&theme=tokyonight&langs_count=6" />
+
+# Contact Me
+<a href="https://www.linkedin.com/in/asim-mohiuddin-10395b212/" target="_blank">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0e76a8&color=black">
+</a>
